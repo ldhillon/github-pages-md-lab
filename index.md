@@ -22,7 +22,7 @@ All pages are written in **Markdown** and automatically converted to HTML.
 
 Here is some Markdown formatting.
 
-###  Bash code example
+##  Bash code example
 ```bash
 kubectl get pods
 
@@ -30,7 +30,7 @@ kubectl get pods
 
 ---
 
-### Python code example
+## Python code example
 
 ```python
 import re
@@ -48,7 +48,7 @@ print(find_words_with_alphabets_and_numbers(input_string))
 
 ---
 
-### Groovy code example
+## Groovy code example
 
 ```groovy
 //define the variable
@@ -104,7 +104,7 @@ if(str1 == str2){
 
 ---
 
-### Yaml code example
+## Yaml code example
 
 ```yaml
 ---
@@ -124,7 +124,7 @@ spec:
 
 ---
 
-### JSON code example
+## JSON code example
 
 ```json
 {
