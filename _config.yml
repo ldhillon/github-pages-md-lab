@@ -17,3 +17,8 @@
 title: DevOps Documentation
 theme: minima
 permalink: pretty
+
+header_pages:
+  - index.md
+  - about.md
+  - docs.md
