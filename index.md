@@ -23,5 +23,7 @@ All pages are written in **Markdown** and automatically converted to HTML.
 Here is some Markdown formatting.
 
 ### Code Example
+```bash
 kubectl get pods
 
+```
