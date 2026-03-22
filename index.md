@@ -22,5 +22,4 @@ Here is some Markdown formatting.
 
 ### Code Example
 
-```bash
 kubectl get pods
