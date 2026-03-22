@@ -2,11 +2,18 @@
 # description: My GitHub Pages Markdown Lab
 # theme: minima
 
-title: DevOps Documentation
-description: My GitHub Pages Markdown Lab
-theme: minima
+########## Second try
+# title: DevOps Documentation
+# description: My GitHub Pages Markdown Lab
+# theme: minima
 
-header_pages:
-  - index.md
-  - about.md
-  - docs.md
+# header_pages:
+#   - index.md
+#   - about.md
+#   - docs.md
+
+# permalink: pretty
+
+title: DevOps Documentation
+theme: minima
+permalink: pretty

@@ -11,8 +11,8 @@ All pages are written in **Markdown** and automatically converted to HTML.
 
 ## Navigation
 
-- [About](about.html)
-- [Documentation](docs.html)
+[About](about/)
+[Documentation](docs/)
 
 ---
 
