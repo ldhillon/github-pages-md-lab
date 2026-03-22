@@ -1,9 +1,11 @@
 ---
-layout: default
+layout: home
 title: Home
+permalink: /
 ---
 
 # Welcome
+
 
 This site is deployed using **GitHub Pages**.
 
