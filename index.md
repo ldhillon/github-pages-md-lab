@@ -70,7 +70,7 @@ def repeat(val, x=10){
   }
 }
 
-repeat("Lakhbir", 5)
+repeat("Dhillon", 5)
 
 //In Groovy, we can use scopes to define Collections or Arrays.
 
@@ -102,6 +102,8 @@ if(str1 == str2){
 
 ```
 
+---
+
 ### Yaml code example
 
 ```yaml
@@ -120,6 +122,8 @@ spec:
 
 ```
 
+---
+
 ### JSON code example
 
 ```json
@@ -133,3 +137,5 @@ spec:
   "profile": { "name": "typicode" }
 } 
 ```
+
+---
