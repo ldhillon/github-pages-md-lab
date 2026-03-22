@@ -1,3 +1,12 @@
+# title: DevOps Documentation
+# description: My GitHub Pages Markdown Lab
+# theme: minima
+
 title: DevOps Documentation
 description: My GitHub Pages Markdown Lab
 theme: minima
+
+header_pages:
+  - index.md
+  - about.md
+  - docs.md
